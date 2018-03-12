@@ -23,6 +23,5 @@ pip3 install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com pil
 - 入口：127.0.0.1:8080/login/
 - 数据库：mysql数据库名 artcms
 - 软件如下图
-
-![Aaron Swartz](https://github.com/beautiful523/flask_artcms/blob/master/1520502564892.jpg)
+![Aaron Swartz](https://github.com/beautiful523/flask-artcms/blob/master/1520502564892.jpg)
 ![avatar](/Users/admin/Documents/1520502564892.jpg)
